@@ -1,2 +1,6 @@
 this is master file for assignment4
+<<<<<<< HEAD
 this update file for private branch
+=======
+this change has been done in brabch public2. updated file
+>>>>>>> public2
